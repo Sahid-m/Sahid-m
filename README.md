@@ -6,7 +6,7 @@ Builder who ships fast — **13+ hackathon wins** across AI, Web3, and fintech (
 
 - **[ReadmeDB](https://readmedb.com)** — persistent markdown memory for AI agents via MCP. Live product at [readmedb.com](https://readmedb.com).
 - **[Fina](https://fina.readmedb.com)** — personal-finance AI: connect your bank accounts and chat with an AI that actually understands your money.
-- **Rust orderbook** — high-performance limit order book / matching engine in Rust: price-time priority, 10k+ concurrent transactions in under 2ms, REST + realtime WebSocket market data.
+- **[Rust orderbook](https://github.com/Sahid-m/rs-orderbook)** — high-performance limit order book / matching engine in Rust: price-time priority, 10k+ concurrent transactions in under 2ms, REST + realtime WebSocket market data.
 
 ## 🛠️ Projects
 
