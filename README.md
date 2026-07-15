@@ -2,12 +2,16 @@
 
 Builder who ships fast — **13+ hackathon wins** across AI, Web3, and fintech (including NVIDIA and OpenAI hackathons). Based in London. Always open to interesting roles and collaborations — DMs are open.
 
-## 🚀 What I'm building
+## 🚀 Products I'm working on
 
 - **[ReadmeDB](https://readmedb.com)** — persistent markdown memory for AI agents via MCP. Live product at [readmedb.com](https://readmedb.com).
+- **[Fina](https://fina.readmedb.com)** — personal-finance AI: connect your bank accounts and chat with an AI that actually understands your money.
+- **Rust orderbook** — high-performance limit order book / matching engine in Rust: price-time priority, 10k+ concurrent transactions in under 2ms, REST + realtime WebSocket market data.
+
+## 🛠️ Projects
+
 - **[gitsol](https://github.com/Sahid-m/gitsol)** — Solana-powered GitHub bounty platform: maintainers fund issues, contributors get paid in SOL.
-- **[Realtime chess](https://github.com/Sahid-m/chess)** — scalable multiplayer chess over WebSockets + React.
-- **Rust trading engine** — limit order book handling 10k+ concurrent transactions in under 2ms.
+- **[onLiq](https://github.com/Sahid-m/onLiq)** — mobile app that onboards anyone into Hyperliquid in one flow: theme-based investing and pair trading on mainnet.
 - **Chess-playing robot arm** — plays physical chess on a real board using inverse kinematics. No ML, just maths.
 
 ## 💻 Tech stack
