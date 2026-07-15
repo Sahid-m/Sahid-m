@@ -7,7 +7,7 @@ Builder who ships fast — **13+ hackathon wins** across AI, Web3, and fintech (
 - **[ReadmeDB](https://readmedb.com)** — persistent markdown memory for AI agents via MCP. Live product at [readmedb.com](https://readmedb.com).
 - **[gitsol](https://github.com/Sahid-m/gitsol)** — Solana-powered GitHub bounty platform: maintainers fund issues, contributors get paid in SOL.
 - **[Realtime chess](https://github.com/Sahid-m/chess)** — scalable multiplayer chess over WebSockets + React.
-- **[Rust trading engine](https://github.com/Sahid-m/rs-orderbook)** — limit order book handling 10k+ concurrent transactions in under 2ms.
+- **Rust trading engine** — limit order book handling 10k+ concurrent transactions in under 2ms.
 - **Chess-playing robot arm** — plays physical chess on a real board using inverse kinematics. No ML, just maths.
 
 ## 💻 Tech stack
